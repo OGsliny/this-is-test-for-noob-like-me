@@ -5,5 +5,6 @@ int main()
 {
    foo();
    myexperiment();
+   mystable();
    return 0;
 }
