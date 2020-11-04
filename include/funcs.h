@@ -2,6 +2,7 @@
 #define FUNCS_H
 
 void foo();
+void mystable();
 
 #endif
 
