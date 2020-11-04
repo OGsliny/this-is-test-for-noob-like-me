@@ -3,6 +3,7 @@
 
 void foo();
 void mystable();
+void myexperiment();
 
 #endif
 
